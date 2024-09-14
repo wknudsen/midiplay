@@ -1,7 +1,7 @@
 /**
  *  midiplay v1.0
  *  Refactored to vanilla JavaScript from jq-mid.
- *  Created 2022-2024 by Werner Knudsen, wkn@kor.dk.
+ *  Copyright (c) 2022-24 by Werner Knudsen, licensed under the MIT License.
  *  Intended to proxify links to MIDI files with the Choral Music Tutor by Chris Hills,
  *  an online mixer implemented as a web app with special functionality for singing practice
  *  at https://choralmusictutor.com.

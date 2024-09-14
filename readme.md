@@ -9,7 +9,7 @@
 
 The script can automatically process all MIDI links or allow for manual control, providing flexibility to suit your specific needs.
 
-Created 2022-2024 by Werner Knudsen, wkn@kor.dk.
+Copyright (c) 2022-24 by Werner Knudsen, licensed under the MIT License.
 The code was refactored to vanilla JavaScript from jq-mid.js with many improvements.
 
 
